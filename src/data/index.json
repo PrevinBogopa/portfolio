@@ -1,0 +1,134 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description":"Experienced frontend developer skilled in HTML, CSS, and JavaScript, specializing in creating responsive web applications. Proficient in React and React Native, with a keen eye for user experience and interface design. Dedicated to leveraging innovative technologies to craft intuitive interfaces that enhance user engagement and drive business success across various platforms. Committed to staying updated with industry trends and best practices to deliver high-quality solutions."},
+
+
+       {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Experienced backend developer with proficiency in Python, Java, Spring Boot, and Django, specializing in building robust and scalable web application backend systems. Skilled in designing and implementing RESTful APIs, database integration, and adhering to software architecture and system design principles. Committed to delivering high-quality, efficient solutions that meet client requirements and industry standards."},
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Experienced UI/UX designer with expertise in Figma, React, and React Native, adept at creating visually stunning and intuitive interfaces. Possesses a strong foundation in wireframing, prototyping, and user testing methodologies to deliver exceptional user experiences. Demonstrated ability to translate client needs into elegant design solutions while adhering to industry standards and best practices. Passionate about staying updated with the latest design trends and technologies to continually elevate design outcomes and exceed client expectations."},
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Mobile Development",
+      "description": "Demonstrated expertise in leveraging Django for backend development and React Native for cross-platform mobile application development. Proficient in designing and implementing robust APIs with Django REST Framework to power mobile applications. ensuring seamless performance and user experience across iOS and Android platforms. Experienced in integrating backend services with mobile apps, implementing user authentication, push notifications, and data synchronization. Committed to delivering scalable, maintainable mobile solutions."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Capture.PNG",
+      "title": "Business Site",
+      "description": "React Native Fx Business app",
+      "link":"https://github.com/MURGGAR/TranscriptForge/"
+    },{
+      "id": "1",
+      "src": "./img/vs.png",
+      "title": "Recording App",
+      "description": "This app uses LLM API to record and summarize text then sent to email as meeting summary ,it uses AI,Python,Machine Learning",
+      "code":"https://github.com/MURGGAR/TranscriptForge/"
+    },
+    {
+      "id": "2",
+      "src": "https://blogs.microsoft.com/wp-content/uploads/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg",
+      "title": "Microsoft Landing Page",
+      "description": "Built this with HTML & CSS",
+      "link": "https://microsoft-p.netlify.app/",
+      "code":"https://github.com/PrevinBogopa/Microsot-landing-page"
+    },
+    {
+      "id": "3",
+      "src": "./img/IMG_7338.JPG",
+      "title": "CHATTY Social Meida APP",
+      "description": "Django,React Native Big App with all CRUD operation still in development",
+      "link": "",
+      "code":"https://github.com/PrevinBogopa/Chatty"
+    },
+    {
+      "id": "4",
+      "src": "https://previn.netlify.app/twitter-x.jpg",
+      "title": "Twitter X Page",
+      "description": "Built this with HTML & CSS",
+      "link": "View In Github",
+      "code":""
+    },
+    {
+      "id": "5",
+      "src": "https://previn.netlify.app/2023-09-22.png",
+      "title": "Guess my Number Game",
+      "description": "Built this with JavaScript",
+      "link": "https://previngame.netlify.app/",
+      "code":"https://github.com/PrevinBogopa/Javascript/tree/main/guess%20number%20game"
+    }  ,
+    {
+      "id": "6",
+      "src": "https://zaiocontent.s3.eu-west-2.amazonaws.com/images+of+courses/css_netflix.png",
+      "title": "Netflix Landing Page",
+      "description": "Built this with HTML & CSS",
+      "link": "https://netflix-clone-previn.netlify.app/",
+      "code":"https://github.com/PrevinBogopa/Netflix-clone"
+    },
+    {
+      "id": "7",
+      "src": "https://previn.netlify.app/nhgfd.PNG",
+      "title": "Resturant Menu",
+      "description": "Built this with React js",
+      "link": "https://resturant-react-app.netlify.app/",
+      "code":"https://github.com/PrevinBogopa/First-React-app"
+    },
+    {
+      "id": "8",
+      "src": "https://zaiocontent.s3.eu-west-2.amazonaws.com/images+of+courses/firebase.png",
+      "title": "Google keep with firebase",
+      "description": "Built this with Javascript,has allfeatures and backend is on Firebase",
+      "link": "https://previn-google-keep.netlify.app/",
+      "code":"https://github.com/PrevinBogopa/google-keep-fire-base"
+    }
+    ,
+    {
+      "id": "9",
+      "src": "http://res.cloudinary.com/ak-124210/image/upload/v1651054260/ycxiaukfp3u504bmb8ii.png",
+      "title": "Google keep with firebase",
+      "description": "Built this with Javascript,has allfeatures and backend is on Firebase",
+      "link": "https://instagram-solo-work.netlify.app/",
+      "code":"https://github.com/PrevinBogopa/Google-gee-clone"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/IMG_6368.JPG",
+      "description": "Highly recommended coder, dedicated and hardworking.",
+
+      "author_name": "Dianne Russel",
+      "author_designation": "Project Partner"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/IMGY.jpg",
+      "description": "Highly recommended coder who built an amazing school website.",
+      "author_name": "Mrs Moagi",
+      "author_designation": "Teacher"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/top.jpg",
+      "description": "I am forever grateful for the exceptional work you did in revamping my FX business website.",
+      "author_name": "Top Notch fx",
+      "author_designation": "Business man"
+    }
+  ]
+}
