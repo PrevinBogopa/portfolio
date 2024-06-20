@@ -1,6 +1,5 @@
 import React from 'react';
 import { Div } from './HeroBgAnimationStyle';
-import { styled } from 'styled-components';
 const HeroBgAnimation = () => (
   <Div>
     <svg
