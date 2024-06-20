@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import HeroBgAnimation from "./HeroBgAnimation/index"
-import { HeroBg, Span } from './HeroStyle'
+import { HeroBg } from './HeroStyle'
 function Home() {
   return (
     <section>
