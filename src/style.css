@@ -461,12 +461,14 @@ button:focus {
 
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(41, 15, 188, 0.459) !important;
-  color: white !important;
-  background-color: transparent !important;
-  opacity: 0.9 !important;
+  color: white !important; /* Text color remains white */
+  background-color: rgba(0, 0, 255, 0.1) !important; /* Blue background with transparency */
+  backdrop-filter: blur(15px) !important; /* Blur effect behind the card */
+  opacity: 0.9 !important; /* Overall card opacity */
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
 }
+
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;

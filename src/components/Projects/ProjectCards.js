@@ -6,7 +6,11 @@ import { BsGithub } from "react-icons/bs";
 
 function ProjectCards(props) {
   return (
-    <Card className="project-card-view">
+    <Card className="project-card-view"  style={{
+      zIndex: 10,
+      backgroundColor: "rgba(255, 255, 255, 0.8)", // Semi-transparent white
+      border: "1px solid #ccc", // Example border
+    }}>
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
